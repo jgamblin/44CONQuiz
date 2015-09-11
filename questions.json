@@ -1,0 +1,1548 @@
+{
+	"games" : [
+		{
+		    "questions" : [
+		       {
+		            "question" : "Defcon in 2016 will be what version?",
+		            "content" : [
+		                "0x18",
+		                "Veintiuno",
+		                "0b10010",
+		                "XXVI"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "The Maximum decimal value that can be represented in a byte is?",
+		            "content" : [
+		                "255",
+		                "64",
+		                "32",
+		                "2"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What process is used by a Cisco switch to prevent or detect ARP cache poisoning?",
+		            "content" : [
+		                "IPSEC",
+		                "ARP WATCH",
+		                "VLANS",
+		                "Dynamic ARP Inspection"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Which of the following protocols sends data in clear text?",
+		            "content" : [
+		                "POP3",
+		                "SNMP V3",
+		                "SSH",
+		                "WEP"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What is the decimal number for the hexadecimal value of C?",
+		            "content" : [
+		                "08",
+		                "12",
+		                "16",
+		                "69"
+		            ],
+		            "correct" : 1
+		        },
+			{
+		            "question" : "How does traceroute map the route that a packet travels from point A to point B?",
+		            "content" : [
+		                "It uses TCP Timestamp packet that will elicit a time exceeded in transit message.",
+		                "It uses a protocol that will be rejected at the gateways on its way to its destination.",
+		                "It manipulates the values of TTL parameter packet to elicit a time exceeded in transit message.",
+		                "It manipulates flags within packets to force gateways into generating error messages."
+		            ],
+		            "correct" : 2
+		        },	
+			{
+		            "question" : "In What Year Was NMAP Released?",
+		            "content" : [
+		                "1997",
+		                "1994",
+		                "2001",
+		                "1991"
+		            ],
+		            "correct" : 0
+		        },
+	
+			{
+		            "question" : "What was BackTrack Linux Renamed?",
+		            "content" : [
+		                "KALI",
+		                "BUSYBOX",
+		                "PWNBOX",
+		                "NSA1"
+		            ],
+		            "correct" : 0
+		        },
+			{
+		            "question" : "Network Security is a?",
+		            "content" : [
+		                "Product",
+		                "Protocol",
+		                "Ever evolving Process",
+		                "Quick-Fix Solution"
+		            ],
+		            "correct" : 2
+		        },
+			   {
+		            "question" : "In reviewing the IS short-range (tactical) plan, an IS auditor should determine whether:",
+		            "content" : [
+		                "There is an integration of IS and business staffs within projects.",
+		                "There is a clear definition of the IS mission and vision.",
+		                "A strategic information technology planning methodology is in place.",
+		                "The plan correlates business objectives to IS goals and objectives."
+		            ],
+		            "correct" : 1
+		        },
+			{
+		            "question" : "Which security model introduces access to objects only through programs?",
+		            "content" : [
+		                "The Biba model.",
+		                "The BellLa-Padula model.",
+		                "The Clark-Wilson model.",
+		                "The information flow model."
+		            ],
+		            "correct" : 2
+		        },
+			{
+		            "question" : "In reviewing the IS short-range (tactical) plan, an IS auditor should determine whether:",
+		            "content" : [
+		                "There is an integration of IS and business staffs within projects.",
+		                "There is a clear definition of the IS mission and vision.",
+		                "A strategic information technology planning methodology is in place.",
+		                "The plan correlates business objectives to IS goals and objectives."
+		            ],
+		            "correct" : 1
+		        },
+			{
+		            "question" : "Which of the following department managers would be best suited to oversee the development of an information security policy? ",
+		            "content" : [
+		                "Information Systems",
+		                "Human Resources",
+		                "Business operations",
+		                "Security administration "
+		            ],
+		            "correct" : 2
+		        },
+			{
+		            "question" : "Why must senior management endorse a security policy?",
+		            "content" : [
+		                "So that they will accept ownership for security within the organization.",
+		                "So that employees will follow the policy directives.",
+		                "So that external bodies will recognize the organizations commitment to security.",
+		                "So that they can be held legally accountable."
+		            ],
+		            "correct" : 0
+		        },
+			{
+		            "question" : "Which of the following defines the intent of a system security policy?",
+		            "content" : [
+		                "A definition of the particular settings that have been determined to provide optimum security.",
+		                "A brief, high-level statement defining what is and is not permitted during the operation of the system. ",
+		                "A definition of those items that must be excluded on the system.",
+		                "A listing of tools and applications that will be used to protect the system. "
+		            ],
+		            "correct" : 0
+		         }
+		    ]
+		},
+		
+
+	{
+		    "questions" : [
+		     	{
+		            "question" : "Which one of the following is the MOST crucial link in the computer security chain?",
+		            "content" : [
+		                "Access controls",
+		                "People",
+		                "Management",
+		                "Hardware"
+		            ],
+		            "correct" : 1
+		        },
+		             {
+		            "question" : "The extent to which data will be collected during an IS audit should be determined based on the:",
+		            "content" : [
+		                "Availability of critical and required information.",
+		                "Auditor's familiarity with the circumstances.",
+		                "Auditee's ability to find relevant evidence.",
+		                "Purpose and scope of the audit being done."
+		            ],
+		            "correct" : 3
+		        },
+		           {
+		            "question" : "What type of password makes use of two totally unrelated words?",
+		            "content" : [
+		                "Login phrase",
+		                "One time password ",
+		                "Composition",
+		                "Login ID "
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Which of the following is the GREATEST advantage of elliptic curve encryption over RSA encryption?",
+		            "content" : [
+		                "Computation speed.",
+		                "Ability to support digital signatures.",
+		                "Simpler key distribution.",
+		                "Greater strength for a given key length."
+		            ],
+		            "correct" : 0
+		        },
+		          {
+		            "question" : "Which of the following controls would provide the GREATEST assurance of database integrity?",
+		            "content" : [
+		                "Audit log procedures.",
+		                "Table link and reference checks.",
+		                "Query and table access time checks.",
+		                "Rollback and rollforward database features."
+		            ],
+		            "correct" : 1
+		        },
+			{
+		            "question" : "What are the three fundamental principles of security?",
+		            "content" : [
+		                "Accountability and confidentiality and integrity.",
+		                "Confidentiality and integrity and availability.",
+		                "Integrity and availability and accountability.",
+		                "Steve Lord and Gin and Beer"
+		            ],
+		            "correct" : 1
+		        },
+			{
+		            "question" : "Which one of the following should NOT be contained within a computer policy?",
+		            "content" : [
+		                "Definition of management expectations.",
+		                "Responsibilities of individuals and groups for protected information.",
+		                "Statement of senior executive support.",
+		                "Definition of legal and regulatory controls. "
+		            ],
+		            "correct" : 1
+		        },
+			   {
+		            "question" : "Which one of the following is NOT a fundamental component of a Regulatory Security Policy?",
+		            "content" : [
+		                "What is to be done.",
+		                "When it is to be done.",
+		                "Who is to do it.",
+		                "Why is it to be done."
+		            ],
+		            "correct" : 2
+		        },
+			{
+		            "question" : "Which statements describes management controls that are instituted to implement a security policy?",
+		            "content" : [
+		                "They prevent users from accessing any control function.",
+		                "They eliminate the need for most auditing functions. ",
+		                "They may be administrative, procedural, or technical.",
+		                "They are generally inexpensive to implement."
+		            ],
+		            "correct" : 2
+		        },
+			{
+		            "question" : "A security policy would include all of the following EXCEPT",
+		            "content" : [
+		                "Background",
+		                "Scope statement",
+		                "Audit requirements",
+		                "Enforcement"
+		            ],
+		            "correct" : 1
+		        },
+			{
+		            "question" : "Which one of the following is an important characteristic of an information security policy?",
+		            "content" : [
+		                "Identifies major functional areas of information. ",
+		                "Quantifies the effect of the loss of the information.",
+		                "Requires the identification of information owners. ",
+		                "Lists applications that support the business function."
+		            ],
+		            "correct" : 0
+		        },
+			{
+		            "question" : "Which of the following would be the first step in establishing an information security program? ",
+		            "content" : [
+		                "Adoption of a corporate information security policy statement",
+		                "Development and implementation of an information security standards manual",
+		                "Development of a security awareness-training program",
+		                "Purchase of security access control software "
+		            ],
+		            "correct" : 0
+		        },
+			{
+		            "question" : "Which of the following is not a part of risk analysis? ",
+		            "content" : [
+		                "Identify risks",
+		                "Quantify the impact of potential threats",
+		                "Provide an economic balance between the impact of the risk and the cost of the associated countermeasures ",
+		                "Choose the best countermeasure"
+		            ],
+		            "correct" : 3
+		        },
+			{
+		            "question" : "Which one of the following is not one of the outcomes of a vulnerability analysis?",
+		            "content" : [
+		                "Quantitative loss assessment",
+		                "Qualitative loss assessment",
+		                "Formal approval of BCP scope and initiation document",
+		                "Defining critical support areas."
+		            ],
+		            "correct" : 2
+		        },
+			{
+		            "question" : "Which of the following is not a compensating measure for access violations?",
+		            "content" : [
+		                "Backups",
+		                "Business Continuity Planning",
+		                "Insurance",
+		                "Security awareness."
+		            ],
+		            "correct" : 3
+		         }
+		    ]
+		},
+	
+		{
+		    "questions" : [
+		        {
+		            "question" : "What is the MAIN purpose of a change control/management system?",
+		            "content" : [
+		                "Notify all interested parties of the completion of the change.",
+		                "Ensure that the change meets user specifications.",
+		                "Document the change for audit and management review.",
+		                "Ensure the orderly processing of a change request."
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "When conducting a risk assessment, which one of the following is NOT an acceptable social engineering practice? ",
+		            "content" : [
+		                "Shoulder surfing",
+		                "Misrepresentation",
+		                "Subversion",
+		                "Dumpster diving"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Risk is commonly expressed as a function of the",
+		            "content" : [
+		                "Systems vulnerabilities and the cost to mitigate.",
+		                "Types of countermeasures needed and the system's vulnerabilities.",
+		                "Likelihood that the harm will occur and its potential impact.",
+		                "Computer system-related assets and their costs."
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "The absence or weakness in a system that may possibly be exploited is called a(n)?",
+		            "content" : [
+		                "Threat",
+		                "Exposure",
+		                "Vulnerability",
+		                "Risk"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "What tool do you use to determine whether a host is vulnerable to known attacks?",
+		            "content" : [
+		                "Padded Cells",
+		                "Vulnerability analysis",
+		                "Honey Pots",
+		                "IDS"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Management can expect penetration tests to provide all of the following EXCEPT",
+		            "content" : [
+		                "Identification of security flaws",
+		                "Demonstration of the effects of the flaws",
+		                "A method to correct the security flaws",
+		                "Verification of the levels of existing infiltration resistance"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Which one of the following is the PRIMARY objective of penetration testing?",
+		            "content" : [
+		                "Assessment",
+		                "Correction",
+		                "Pancreas",
+		                "Heart"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What is the main responsibility of the information owner?",
+		            "content" : [
+		                "Making the determination to decide what level of classification the information requires.",
+		                "Running regular backups ",
+		                "Audit the users when they require access to the information.",
+		                "Periodically checking the validity and accuracy for all data in the information system "
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Which of the following is not a valid reason to use external penetration service firms rather than corporate resources?",
+		            "content" : [
+		                "They are more cost-effective.",
+		                "They offer a lack of corporate bias",
+		                "They use highly talented ex-hackers",
+		                "They insure a more complete reporting "
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "How is Annualized Loss Expectancy (ALE) derived from a threat?",
+		            "content" : [
+		                "ARO x (SLE - EF)",
+		                "SLE x ARO",
+		                "SLE/EF",
+		                "Magic"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "What is the window of time for recovery of information processing capabilities based on?",
+		            "content" : [
+		                "Quality of the data to be processed",
+		                "Nature of the disaster",
+		                "Criticality of the operations affected",
+		                "Applications that are mainframe based"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "A common Limitation of information classification systems is the INABILITY to",
+		            "content" : [
+		                "Limit the number of classifications.",
+		                "Generate internal labels on diskettes.",
+		                "Declassify information when appropriate.",
+		                "Establish information ownership."
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "The purpose of information classification is to?",
+		            "content" : [
+		                "Assign access controls.",
+		                "Apply different protective measures.",
+		                "Define the parameters required for security labels.",
+		                "Ensure separation of duties."
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "What principle requires that a user be given no more privilege then necessary to perform a job? ",
+		            "content" : [
+		                "Principle of aggregate privilege.",
+		                "Principle of most privilege.",
+		                "Principle of effective privilege.",
+		                "Principle of least privilege."
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "The concept of least privilege currently exists within the context of:",
+		            "content" : [
+		                "ISO",
+		                "TCSEC",
+		                "OSI",
+		                "IETF"
+		            ],
+		            "correct" : 1
+		        }
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "What is the FIRST step that should be considered in a penetration test?",
+		            "content" : [
+		                "The approval of change control management.",
+		                "The development of a detailed test plan.",
+		                "The formulation of specific management objectives.",
+		                "The communication process among team members."  
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "What is the Maximum Tolerable Downtime (MTD)",
+		            "content" : [
+		                "Maximum elapsed time required to complete recovery of application data",
+		                "Maximum elapsed time required to complete recovery of application",
+		                "Maximum elapsed time required to move back to primary site a major disruption",
+		                "The maximum delay businesses that can tolerate and still remain viable "
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "A critical application is one that MUST",
+		            "content" : [
+		                "Remain operational for the organization to survive.",
+		                "Be subject to continual program maintenance.",
+		                "Undergo continual risk assessments.",
+		                "Be constantly monitored by operations management. "
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Which of the following measures would be the BEST deterrent to the theft of corporate information from a laptop which was left in a hotel room?",
+		            "content" : [
+		                "Store all data on disks and lock them in an in-room safe",
+		                "Remove the batteries and power supply from the laptop and store them separately from the  computer",
+		                "Install a cable lock on the laptop when it is unattended",
+		                "Encrypt the data on the hard drive"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Which of the following computer crime is more often associated with insiders? ",
+		            "content" : [
+		                "IP spoofing",
+		                "Password sniffing",
+		                "Data diddling",
+		                "Denial of Service (DOS)"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Which of the following is not a form of a passive attack?",
+		            "content" : [
+		                "Scavenging",
+		                "Data diddling",
+		                "Shoulder surfing",
+		                "Sniffing"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Which of the following ensures that security is not breached when a system crash or other system failure occurs?",
+		            "content" : [
+		                "trusted recovery",
+		                "hot swappable",
+		                "redundancy",
+		                "secure boot"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "A 'Pseudo flaw' is which of the following?",
+		            "content" : [
+		                "An apparent loophole deliberately implanted in an operating system ",
+		                "An omission when generating Pseudo-code",
+		                "Used for testing for bounds violations in application programming ",
+		                "A Normally generated page fault causing the system halt"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What is the PRIMARY component of a Trusted Computer Base? ",
+		            "content" : [
+		                "The computer hardware",
+		                "The security subsystem",
+		                "The operating system software",
+		                "The reference monitor"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "LOMAC uses what Access Control method to protect the integrity of processes and data?",
+		            "content" : [
+		                "Linux based EFS.",
+		                "Low Water-Mark Mandatory Access Control.",
+		                "Linux based NFS.",
+		                "High Water-Mark Mandatory Access Control."
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "What is the main concern of the Bell-LaPadula security model?",
+		            "content" : [
+		                "Accountability",
+		                "Integrity",
+		                "Confidentiality",
+		                "Availability "
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "The Lattice Based Access Control model was developed MAINLY to deal with:",
+		            "content" : [
+		                "Affinity",
+		                "None of the choices.",
+		                "Confidentiality",
+		                "Integrity"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Access control techniques do not include which of the following choices?",
+		            "content" : [
+		                "Relevant Access Controls",
+		                "Discretionary Access Controls",
+		                "Mandatory Access Controls",
+		                "Lattice Based Access Controls"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "The default level of security established for access controls should be?",
+		            "content" : [
+		                "All access",
+		                "Update access",
+		                "Read access",
+		                "No access"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "What is called a type of access control where a central authority determines what subjects can have access to certain objects, based on the organizational security policy?",
+		            "content" : [
+		                "Mandatory Access Control",
+		                "Discretionary Access Control",
+		                "Non-discretionary Access Control",
+		                "Rule-based access control "
+		            ],
+		            "correct" : 2
+		        }
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "What control is based on a specific profile for each user?",
+		            "content" : [
+		                "Lattice based access control.",
+		                "Directory based access control.",
+		                "Rule based access control.",
+		                "ID based access control."
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "What is the method of coordinating access to resources based on the listening of permitted IP addresses? ",
+		            "content" : [
+		                "MAC",
+		                "ACL",
+		                "DAC",
+		                "WAC"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "A firewall can be classified as a:",
+		            "content" : [
+		                "Directory based access control.",
+		                "Rule based access control.",
+		                "Lattice based access control.",
+		                "ID based access control. "
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Which of the following are the two most well known access control models?",
+		            "content" : [
+		                "Lattice and Biba",
+		                "Bell LaPadula and Biba",
+		                "Bell LaPadula and Chinese war",
+		                "Bell LaPadula and Info Flow"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "What security model implies a central authority that determines what subjects can have access to what objects?",
+		            "content" : [
+		                "Centralized access control",
+		                "Discretionary access control",
+		                "Mandatory access control",
+		                "Non-discretionary access control"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Which of the following is a straightforward approach that provides access rights to subjects for objects?",
+		            "content" : [
+		                "Access Matrix model",
+		                "Take-Grant Model",
+		                "Bell-LaPadula Model",
+		                "Biba Model "
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Which of the following was the first mathematical model of multilevel security policy?",
+		            "content" : [
+		                "Biba",
+		                "Take-Grant",
+		                "Bell-La Padula",
+		                "Clark Wilson"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Which security model allows the data custodian to grant access privileges to other users?",
+		            "content" : [
+		                "Mandatory",
+		                "Bell-LaPadula",
+		                "Discretionary",
+		                "Clark-Wilson"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "The access matrix model has which of the following common implementations?",
+		            "content" : [
+		                "Access control lists and capabilities.",
+		                "Access control lists.",
+		                "Capabilities.",
+		                "Access control list and availability."
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Enforcing minimum privileges for general system users can be easily achieved through the use of:",
+		            "content" : [
+		                "Shark",
+		                "RBAC",
+		                "TBAC",
+		                "ITSEC"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "The unauthorized mixing of data of one sensitivity level and need-to-know with data of a  lower sensitivity level, or different need-to-know, is called data:",
+		            "content" : [
+		                "Contamination",
+		                "Seepage",
+		                "Aggregation",
+		                "Commingling"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Covert channel is a communication channel that can be used for:",
+		            "content" : [
+		                "Hardening the system.",
+		                "Violating the security policy.",
+		                "Protecting the DMZ.",
+		                "Strengthening the security policy."
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "What is an indirect way to transmit information with no explicit reading of confidential information?",
+		            "content" : [
+		                "Covert channels",
+		                "Backdoor",
+		                "Timing channels",
+		                "Overt channels "
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What security risk does a covert channel create?",
+		            "content" : [
+		                "A process can signal information to another process. ",
+		                "It bypasses the reference monitor functions.",
+		                "A user can send data to another user.",
+		                "Data can be disclosed by inference."
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "FIPS-140 is a standard for the security of:",
+		            "content" : [
+		                "Cryptographic service providers",
+		                "Smartcards",
+		                "Hardware and software cryptographic modules",
+		                "Hardware security modules"
+		            ],
+		            "correct" : 2
+		        }
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "What is Kerberos?",
+		            "content" : [
+		                "A three-headed dog from Egyptian Mythology",
+		                "A trusted third-party authentication protocol",
+		                "A security model",
+		                "A remote authentication dial in user server"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Which of the following is true about Kerberos?",
+		            "content" : [
+		                "It utilized public key cryptography",
+		                "It encrypts data after a ticket is granted, but passwords are exchanged in plain text",
+		                "It depends upon symmetric ciphers",
+		                "It is a second party authentication system"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Kerberos depends upon what encryption method?",
+		            "content" : [
+		                "Public Key cryptography",
+		                "Private Key cryptography",
+		                "El Gamal cryptography",
+		                "Blowfish cryptography"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "The primary service provided by Kerberos is which of the following?",
+		            "content" : [
+		                "non-repudiation",
+		                "confidentiality",
+		                "authentication",
+		                "authorization"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Which of the following is true about Kerberos?",
+		            "content" : [
+		                "It utilizes public key cryptography",
+		                "It encrypts data after a ticket is granted, but passwords are exchanged in plain text.",
+		                "It depends upon symmetric ciphers",
+		                "It is a second party authentication system"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "One of the differences between Kerberos and KryptoKnight is that there is:",
+		            "content" : [
+		                "A mapped relationship among the parties takes place",
+		                "There is a peer-to-peer relationship among the parties with themselves.",
+		                "There is no peer-to-peer relationship among the parties and the KDC ",
+		                "A peer-to-peer relationship among the parties and the KDC"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "A confidential number to verify a user's identity is called a: ",
+		            "content" : [
+		                "PIN",
+		                "UserID",
+		                "Password",
+		                "Pinword"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Tokens, as a way to identify users are subject to what type of error?",
+		            "content" : [
+				"Token error",
+				"Decrypt error", 
+				"Human error ",
+				"Encrypt error"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Memory only cards work based on:",
+		            "content" : [
+		                "Something you have.",
+		                "Something you know.",
+		                "Something you know and something you have.",
+		                "None of the choices."
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "The word smart card has meanings of:",
+		            "content" : [
+		                "Personal identity token containing IC-s.",
+		                "Processor IC card",
+		                "IC card with ISO 7816 interface.",
+		                "All of the choices."
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Which of the following offers advantages such as the ability to use stronger passwords, easier password administration, and faster resource access?",
+		            "content" : [
+		                "Smart cards",
+		                "Single Sign-on (SSO) ",
+		                "Kerberos",
+		                "Public Key Infrastructure (PKI) "
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What is a protocol used for carrying authentication, authorization, and configuration information between a Network Access Server and a shared Authentication Server?",
+		            "content" : [
+		                "IPSec",
+		                "RADIUS",
+		                "L2TP",
+		                "PPTP"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Which of the following are proprietarily implemented by CISCO?",
+		            "content" : [
+		                "Radius+",
+		                "TACACS",
+		                "TACACS+ and XTACACS+",
+		                "OKTA"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Which of the following media is MOST resistant to tapping?",
+		            "content" : [
+		                "Twisted pair ",
+		                "WiFi",
+		                "Coax",
+		                "Fiber Optic"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "RADIUS is defined by which RFC?",
+		            "content" : [
+		                "2168",
+		                "2148",
+		                "2138",
+		                "2178"
+		            ],
+		            "correct" : 2
+		        }
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "How many digits of the DNIC (Data Network Identification Code) identify the country?",
+		            "content" : [
+		                "3",
+		                "8",
+		                "5",
+		                "0"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "The MD5 is a message digest algorithm developed by:",
+		            "content" : [
+		                "Ron Rivest",
+		                "WhiteField Diffie.",
+		                "Martin Hellman",
+		                "Diffie-Hellman"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "The original message digest algorithm is called as _______.",
+		            "content" : [
+		                "MAC",
+		                "SHA",
+		                "MD",
+		                "MDA"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "MD5 is quite fast and produces ________ message digests.",
+		            "content" : [
+		                "512 bits",
+		                "1024 bits",
+		                "128 bits",
+		                "64 bits"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "The first step of MD5 is __________",
+		            "content" : [
+		                "add padding bits to original message",
+		                "adding append length bits",
+		                "divide the input into 512 bit blocks",
+		                "compression"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "In MD5, the process block divides the 512 bits into ________ sub blocks.",
+		            "content" : [
+		                "16",
+		                "24",
+		                "32",
+		                "64"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What helps in ensuring non-fraudulent transactions on the web?",
+		            "content" : [
+		                "Certificate authority",
+		                "Digital authority",
+		                "Dual authority",
+		                "Digital signature"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "TLS is placed in between the ________ layers.",
+		            "content" : [
+		                "transport & datalink",
+		                "application & presentation",
+		                "application & transport",
+		                "application & session"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "TLS is used to encrypt the ___________.",
+		            "content" : [
+		                "L2 data",
+		                "L4 data",
+		                "L69 data",
+		                "L5 data"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "TLS provides only ___________.",
+		            "content" : [
+		                "authentication",
+		                "confidentiality",
+		                "integrity",
+		                "durability"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "___________are very crucial for success of RSA algorithm.",
+		            "content" : [
+		                "Integers",
+		                "Prime numbers",
+		                "Negative number",
+		                "Fractions"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "In the basic TCP/IP protocol suite, the number of layers used are _________.",
+		            "content" : [
+		                "5",
+		                "6",
+		                "3",
+		                "4"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Physical layer transmits the data in TCP/IP as _________.",
+		            "content" : [
+		                "Packets",
+		                "Pulse Codes",
+		                "Data",
+		                "Bits"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "S/MIME stands for ____________.",
+		            "content" : [
+		                "Standard multipurpose internet mail extensions.",
+		                "Secure multipurpose internet mail extensions",
+		                "Secure multipurpose international mail extensions",
+		                "Standard multipurpose international mail extensions"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "_________ uniquely identifies the MIME entities uniquely with reference to multiple contexts.",
+		            "content" : [
+		                "Content description",
+		                "Content-id",
+		                "Content type",
+		                "Content transfer encoding"
+		            ],
+		            "correct" : 1
+		        }
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "The processed S/MIME along with security related data is called as ________.",
+		            "content" : [
+		                "public key cryptography standard",
+		                "private key cryptography standard",
+		                "S/MIME",
+		                "MIME"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "In S/MIME MLA stands for __________.",
+		            "content" : [
+		                "mailing list agent.",
+		                "multipurpose list agent",
+		                "mail lock agent",
+		                "message link agent"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "The cryptography algorithms used in S/MIME are _________",
+		            "content" : [
+		                "IDEA",
+		                "RC4",
+		                "RSA,DES-3",
+		                "RC5"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "_________ is a block cipher.",
+		            "content" : [
+		                "DES",
+		                "IDEA",
+		                "AES",
+		                "RSA"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "DES encrypts data in block size of __________ bits each.",
+		            "content" : [
+		                "128",
+		                "64",
+		                "256",
+		                "512"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Merkle and Hellman introduced the concept of ________",
+		            "content" : [
+		                "meet in middle attack",
+		                "guy in the middle attack",
+		                "hijack",
+		                "DDOS"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Data Encryption Standard also called as __________.",
+		            "content" : [
+		                "Data Encryption Algorithm",
+		                "Double DES",
+		                "AES",
+		                "RSA"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What type of wiretapping involves injecting something into the communications?",
+		            "content" : [
+		                "Passive",
+		                "Active",
+		                "Captive",
+		                "Aggressive"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "What attack involves actions to mimic one's identity?",
+		            "content" : [
+		                "Social engineering",
+		                "Brute force",
+		                "Spoofing",
+		                "Exhaustive"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "__________ is generally used in ECB,CBC, or CFB mode.",
+		            "content" : [
+		                "RSA",
+		                "AES",
+		                "Tuna",
+		                "DES"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "DES consists of __________ rounds to perform the substitution and transposition techniques.",
+		            "content" : [
+		                "32",
+		                "4",
+		                "16",
+		                "8"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "_________is the first step in DES.",
+		            "content" : [
+		                "Key transformation",
+		                "Expansion permutation clerical cap",
+		                "S-box substitution",
+		                "R-box substitution"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "___________ substitution is a process that accepts 48 bits from the XOR operation",
+		            "content" : [
+		                "S-box",
+		                "P-box",
+		                "K-box",
+		                "G-box"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "__________ refers more to asymmetric key cryptography.",
+		            "content" : [
+		                "Timing attack.",
+		                "Meet in middle attack",
+		                "Virus attack",
+		                "Worm attack"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Eli Biham & Adi Shamir introduced ___________",
+		            "content" : [
+		                "DES",
+		                "RSA",
+		                "differential & linear cryptoanalysis",
+		                "Double DES"
+		            ],
+		            "correct" : 2
+		        }
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "In what children's game are participants chased by someone designated \"It\"?",
+		            "content" : [
+		                "Tag",
+		                "Simon Says",
+		                "Charades",
+		                "Hopscotch"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "On a radio, stations are changed by using what control?",
+		            "content" : [
+		                "Tuning",
+		                "Volume",
+		                "Bass",
+		                "Treble"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "A college graduate who receives a B.S. degree holds what official title?",
+		            "content" : [
+		                "Bachelor of science",
+		                "Business scholar",
+		                "Baccalaureate staff",
+		                "Brainy student"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Which of the following telephone area codes is not a toll-free call in the United States?",
+		            "content" : [
+		                "800",
+		                "828",
+		                "877",
+		                "888"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "What part of the human body does glaucoma directly affect?",
+		            "content" : [
+		                "Ear",
+		                "Nose",
+		                "Throat",
+		                "Eye"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "What is the name of Tom Cruise's character in the \"Mission: Impossible\" movies?",
+		            "content" : [
+		                "Frank Mackey",
+		                "Mitch McDeere",
+		                "Joel Goodson",
+		                "Ethan Hunt"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Which of these materials is used to make vests bulletproof?",
+		            "content" : [
+		                "Kevlar",
+		                "Lycra",
+		                "Gore-tex",
+		                "Polystyrene"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What animal's name means \"river horse\" in Greek?",
+		            "content" : [
+		                "Platypus",
+		                "Hippopotamus",
+		                "Rhinoceros",
+		                "Manatee"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "To take advantage of the earth's rotation, NASA launches most of its rockets in what direction?",
+		            "content" : [
+		                "North",
+		                "East",
+		                "South",
+		                "West"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "College football's Independence Bowl is played in what city?",
+		            "content" : [
+		                "Philadelphia",
+		                "Memphis",
+		                "Shreveport",
+		                "Tucson"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Which of these best describes music that is played \"pianissimo\"?",
+		            "content" : [
+		                "Very soft",
+		                "Very fast",
+		                "Moderately loud",
+		                "Loud"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "In Greek mythology, what is the relationship between Oedipus and Antigone?",
+		            "content" : [
+		                "Husband and wife",
+		                "Mentor and student",
+		                "Father and daughter",
+		                "Mother and son"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "The rococo style of art originated in what country?",
+		            "content" : [
+		                "France",
+		                "Italy",
+		                "Austria",
+		                "Spain"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "In Norse mythology, Mjolnir was the name of what?",
+		            "content" : [
+		                "Thor's hammer",
+		                "Odin's horse",
+		                "Sigmund's sword",
+		                "Loki's magic necklace"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "On July 12, 2000, Russia launched a rocket into space bearing the corporate logo of what company?",
+		            "content" : [
+		                "Intel",
+		                "Reebok",
+		                "Budweiser",
+		                "Pizza Hut"
+		            ],
+		            "correct" : 3
+		        }
+		    ]
+		},
+		    {
+		    "questions" : [
+		        {
+		            "question" : "What kind of animal traditionally lives in a sty?",
+		            "content" : [
+		                "Cow",
+		                "Pig",
+		                "Fox",
+		                "Teenager"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "What name is legally used to indicate a woman whose name is unknown?",
+		            "content" : [
+		                "Joan Doe",
+		                "Jane Doe",
+		                "Jean Doe",
+		                "Lotta Doe"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "The EPA urges people to produce less waste by engaging in efforts to reduce, reuse and what?",
+		            "content" : [
+		                "Recycle",
+		                "Rewrap",
+		                "Repossess",
+		                "Retire"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "For 10 years, Cape Canaveral was renamed for which American president?",
+		            "content" : [
+		                "Dwight D. Eisenhower",
+		                "John F. Kennedy",
+		                "Richard M. Nixon",
+		                "Lyndon B. Johnson"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "People who advocate war are commonly referred to as what?",
+		            "content" : [
+		                "Doves",
+		                "Hawks",
+		                "Rams",
+		                "Gorillas"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "In nautical terms, a fathom is equivalent to how many feet?",
+		            "content" : [
+		                "4",
+		                "6",
+		                "10",
+		                "20"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Which of the following comedians was never a regular cast member of TV's \"Saturday Night Live\"?",
+		            "content" : [
+		                "Steve Martin",
+		                "Julia Louis-Dreyfus",
+		                "Martin Short",
+		                "Jim Belushi"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What part of a goose or duck is fattened to produce \"foie gras\"?",
+		            "content" : [
+		                "Kidney",
+		                "Liver",
+		                "Stomach",
+		                "Tongue"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "What components of blood are responsible for blood clotting?",
+		            "content" : [
+		                "White blood cells",
+		                "Red blood cells",
+		                "Platelets",
+		                "Lymphocytes"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "In Ernest Hemingway's novella \"The Old Man and the Sea,\" what kind of creature does the title character hook?",
+		            "content" : [
+		                "Shark",
+		                "Marlin",
+		                "Tuna",
+		                "Whale"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "CREEP was an organization to aid the re-election of what incumbent U.S. president?",
+		            "content" : [
+		                "Richard Nixon",
+		                "Ronald Reagan",
+		                "George Bush",
+		                "Bill Clinton"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What is a biretta?",
+		            "content" : [
+		                "Firearm",
+		                "Clerical cap",
+		                "Tropical bird",
+		                "Lumberjack's tool"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "The highest mountain in South America is located in what country?",
+		            "content" : [
+		                "Brazil",
+		                "Peru",
+		                "Ecuador",
+		                "Argentina"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "The shortest distance between two points lying on a curved or flat surface is what type of line?",
+		            "content" : [
+		                "Stochastic",
+		                "Isometric",
+		                "Discrete",
+		                "Geodesic"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "In 1893, what country was the first to grant women the right to vote?",
+		            "content" : [
+		                "Canada",
+		                "Sweden",
+		                "New Zealand",
+		                "Denmark"
+		            ],
+		            "correct" : 2
+		        }
+		    ]
+		}
+	]
+}
